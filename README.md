@@ -34,7 +34,7 @@ Clone the repo from here
 
 ```
 
-https://github.com/Kpovey115/naughtsandcrosses.git
+https://github.com/jamwil123/naughtsandcrosses
 
 ```
 
@@ -42,7 +42,7 @@ using the command
 
 ```
 
-git clone https://github.com/Kpovey115/naughtsandcrosses.git
+git clone https://github.com/jamwil123/naughtsandcrosses
 
 ```
 
